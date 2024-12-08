@@ -1,3 +1,3 @@
 # Front End Developement Training
-# Basic E-Commerce Site
+# Basic E-Commerce Web Page
 # Basic Angular Project
